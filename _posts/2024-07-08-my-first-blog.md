@@ -1,6 +1,6 @@
 ---
 layout: post
-title: my-irst-blog
+title: my first blog
 date: 2024-07-08
 ---
 
