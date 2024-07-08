@@ -1,5 +1,5 @@
 ---
-title: "My first blog"
+title: "my-irst-blog"
 date: 2024-07-08
 ---
 
