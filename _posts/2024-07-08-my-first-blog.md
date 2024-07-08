@@ -1,5 +1,6 @@
 ---
-title: "my-irst-blog"
+layout: post
+title: my-irst-blog
 date: 2024-07-08
 ---
 
